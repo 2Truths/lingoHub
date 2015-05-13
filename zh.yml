@@ -1,2 +1,6 @@
-zh: {
-  }
+zh:
+  # to trigger automatic import into lingohub
+  add: 添加触发器
+  errors:
+    messages:
+      size_too_big: 过大（应该是最多%{file_size}）

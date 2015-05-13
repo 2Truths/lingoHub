@@ -1,3 +1,8 @@
 de:
   # to trigger automatic import into lingohub
-  add: I
+  add: Auslöser hinzufügen
+  cancel: Stornieren
+  edit: Bearbeiten
+  errors:
+    messages:
+      size_too_small: zu klein ist (mindestens %{file_size} sein)
